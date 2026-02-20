@@ -1,1 +1,1 @@
-# Insurance-Prediction-FastApi
+# Insurance-Prediction-FastAPI
